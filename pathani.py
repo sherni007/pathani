@@ -1,2 +1,0 @@
-import ptb
-ptb.p()
